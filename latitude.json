@@ -1,0 +1,19 @@
+{ "type": "FeatureCollection",
+"features": [
+{ "type": "Feature",
+"geometry": {"type": "Point", "coordinates": [103.7656233, 29.5520635]},
+"properties": {
+"id": "-303550281279573224",
+"accuracyInMeters": 0,
+"timeStamp": 1246376440,
+"reverseGeocode": "Leshan, Sichuan, China",
+"photoUrl": "http://www.google.com/latitude/apps/badge/api?type=photo&photo=EsbYMSIBAAA.fbctSaLn14Pl_0ex3H0XqQ._UyrTQ79aX5m44RZ64mBog",
+"photoWidth": 96,
+"photoHeight": 96,
+"placardUrl": "http://www.google.com/latitude/apps/badge/api?type=photo_placard&photo=EsbYMSIBAAA.fbctSaLn14Pl_0ex3H0XqQ._UyrTQ79aX5m44RZ64mBog&moving=false&stale=false&lod=1&format=png",
+"placardWidth": 56,
+"placardHeight": 59
+}
+}
+]
+}

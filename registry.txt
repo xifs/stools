@@ -1,0 +1,20 @@
+Jar-Path: /ezxlocal/.system/java/DownloadApps/MIDlet00518/Files/eBuddy_motorola_rokr_e6.jar
+Jad-Path: /ezxlocal/.system/java/DownloadApps/MIDlet00518/Files/eBuddy_motorola_rokr_e6.jad
+Perm-Path: /ezxlocal/.system/java/DownloadApps/MIDlet00518/permfile.txt
+Suite-Icon: /ezxlocal/.system/java/DownloadApps/MIDlet00518/Files/MIDlet-1.png
+DRM-Mode: Forbidden
+Is-Trusted: 0
+Jar-URL: http://get.ebuddy.com/en/v1_2/eBuddy_motorola_rokr_e6.jar
+Description:
+Domain:Manufacture
+Signer-Name:
+Mot-JavaVM-Heapsize: 0
+Delete-Notify:
+Num-MIDlets: 1
+MIDlet-1: eBuddy,
+/ezxlocal/.system/java/DownloadApps/MIDlet00518/Files/MIDlet-1.png,
+com.ebuddy.messenger.AppMIDlet
+
+Connection-Profile:cmnet
+
+Prefer-Connection-Profile:cmnet
