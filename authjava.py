@@ -18,12 +18,12 @@ def registryit(filename):
 	idx = cont.index(fina)
 	cont.pop(idx)
 	cont.insert(idx,nw1)
-	file = open(path,'w')
+	file = open(filename,'w')
 	file.writelines(cont)
 	file.close()
 	
 if __name__ == '__main__':
 	for filedir in filelist:
-		filename = path + filedir + 'registry.txt'
+		filename = path + filedir + '/registry.txt'
 		registryit(filename)
 	print 'success'
