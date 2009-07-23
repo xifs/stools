@@ -8,6 +8,8 @@ print base64.decodestring(link)[2:-2]
 
 print base64.decodestring('aW14aWZzQGdtYWlsLmNvbQ==')
 
+print base64.decodestring('ZmVpaHUucm9nZXJAZ21haWwuY29t')
+
 #http://www.google.com/latitude/apps/badge/api?user=-303550281279573224&type=json
 
 

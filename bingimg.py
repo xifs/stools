@@ -5,3 +5,4 @@ import urllib,httplib,htmllib
 
 link = urllib.urlopen('http://www.zetcode.com')
 tmp = link.readlines()
+print tmp
